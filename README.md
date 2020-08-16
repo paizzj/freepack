@@ -1,7 +1,7 @@
-MessagePack
+FreePack
 ===========
 
-MessagePack is an efficient binary serialization format. It's like JSON. but fast and small.
+FreePack is based on MessagePac which is an efficient binary serialization format. It's like JSON. but fast and small.
 
 This repository manages specification of MessagePack format. See [Spec](spec.md) for the specification.
 
